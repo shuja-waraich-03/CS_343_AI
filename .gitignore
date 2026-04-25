@@ -1,2 +1,6 @@
 venv/
 .venv/
+Exam Prep/cs343_guide.pdf
+*.JPG
+*.pdf
+.DS_Store
