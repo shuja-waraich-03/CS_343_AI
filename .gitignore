@@ -1,2 +1,9 @@
 venv/
 .venv/
+
+HW2/imagenette2-160/
+HW2/data/cifar-10-python.tar.gz
+HW2/data/cifar-10-batches-py
+
+# HW2/training_loss.png
+*.png
