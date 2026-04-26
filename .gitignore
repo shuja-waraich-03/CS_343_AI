@@ -7,3 +7,7 @@ HW2/data/cifar-10-batches-py
 
 # HW2/training_loss.png
 *.png
+Exam Prep/cs343_guide.pdf
+*.JPG
+*.pdf
+.DS_Store
