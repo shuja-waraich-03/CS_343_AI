@@ -13,3 +13,5 @@ Exam Prep/cs343_guide.pdf
 .DS_Store
 HW3/VOCdevkit/
 HW3/VOCtrainval_11-May-2012.tar
+HW4/coco_val_subset/images/
+HW4/coco_val_subset/instances_val2017.json
